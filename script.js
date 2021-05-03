@@ -1,3 +1,4 @@
+document.body.style.backgroundColor = "rgb(219, 215, 223)"
 var mainContent = document.createElement("div")
 mainContent.classList.add('grid-container')
 // mainContent.style.height = "500px"
